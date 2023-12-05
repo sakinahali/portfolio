@@ -1,7 +1,7 @@
 # Data Scientist
 #### Technical Skills: Python, SQL, Tableau, PowerBI, MATLAB,
 ## Education
-- B.Sc, Industrial Chemistry  |      University of Port Harcourt (November 2021)
+- B.Sc, Industrial Chemistry | University of Port Harcourt Nigeria (_November 2021_)		
 
 ## Research Interest
 My research interest centers around applying advanced data science methodologies to address critical challenges in health and climate domains. Specifically, to contribute to developing innovative insights that enhance better understanding of complex data and informed decision-making processes through leveraging techniques from:
